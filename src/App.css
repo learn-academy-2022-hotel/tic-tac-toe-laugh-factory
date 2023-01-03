@@ -3,3 +3,12 @@
   width: 100px;
   border: 2px solid black;
 }
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+  margin: 0 auto;
+  font-size: 5rem;
+  text-align: center;
+}
